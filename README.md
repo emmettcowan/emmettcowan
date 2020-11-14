@@ -1,6 +1,6 @@
 ### Hi there 👋, Im Emmett Cowan
 
-#### Im a 4th Year software & electronic engineer in GMIT 👨‍💻
+# Im a 4th Year software & electronic engineer in GMIT 👨‍💻
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emmettcowan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
