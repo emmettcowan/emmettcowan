@@ -2,7 +2,6 @@
 
 ## Im a 4th Year software & electronic engineer in GMIT 👨‍💻
 
-### Contact me
 <a href="https://www.linkedin.com/in/emmett-cowan-247937184/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
