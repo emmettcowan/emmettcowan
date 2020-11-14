@@ -2,6 +2,12 @@
 
 ## Im a 4th Year software & electronic engineer in GMIT 👨‍💻
 
+### Contact me
+<a href="https://www.linkedin.com/in/emmett-cowan-247937184/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+  
+
 #### 2020 Intel Intern :rocket:
 
 - 🔭 I’m currently working on an application to improve productivity (FYP)
@@ -9,12 +15,6 @@
 
 ### GitHub Stats :bar_chart:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emmettcowan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contact me
-<a href="https://www.linkedin.com/in/emmett-cowan-247937184/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-  
 
 <!--
 **emmettcowan/emmettcowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
