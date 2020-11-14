@@ -2,7 +2,7 @@
 
 ## Im a 4th Year software & electronic engineer in GMIT 👨‍💻
 
-#### 2020 Intel Intern 
+#### 2020 Intel Intern :rocket:
 
 - 🔭 I’m currently working on an application to improve productivity (FYP)
 - 🌱 I’m currently learning JS, Nodejs and react
