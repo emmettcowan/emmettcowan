@@ -10,6 +10,9 @@
 ### GitHub Stats :bar_chart:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emmettcowan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contact me
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
 <!--
 **emmettcowan/emmettcowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
