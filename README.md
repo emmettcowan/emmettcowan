@@ -2,7 +2,7 @@
 
 ## Im a 4th Year software & electronic engineer in GMIT 👨‍💻
 
-<img src="https://i0.wp.com/www.techslack.com/wp-content/uploads/2016/03/intel-logo-small.png?ssl=1" alt="drawing" width="200"/>
+<img src="https://i0.wp.com/www.techslack.com/wp-content/uploads/2016/03/intel-logo-small.png?ssl=1" alt="drawing" width="100"/>
 
 - 🔭 I’m currently working on an application to improve productivity (FYP)
 - 🌱 I’m currently learning JS, Nodejs and react
