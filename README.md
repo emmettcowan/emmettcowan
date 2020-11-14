@@ -2,6 +2,9 @@
 
 ## Im a 4th Year software & electronic engineer in GMIT 👨‍💻
 
+- 🔭 I’m currently working on an application to improve productivity (FYP)
+- 🌱 I’m currently learning ...
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emmettcowan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
