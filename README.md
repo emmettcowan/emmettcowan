@@ -1,4 +1,4 @@
-# Hi there 👋, Im Emmett Cowan
+# Hi there 👋, I'm Emmett Cowan
 
 ## Im a 4th Year software & electronic engineer in GMIT 👨‍💻
 
