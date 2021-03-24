@@ -14,14 +14,14 @@
 #### 2020 Intel Intern :rocket:
 
 - 🔭 I’m currently working on an application to improve productivity (FYP)
-- 🌱 I’m currently learning JS, Nodejs and Mongodb
+- 🌱 I’m currently learning Image Procesing, Full Stack Development and React Native
 
 ### GitHub Stats :bar_chart:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emmettcowan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills :round_pushpin:
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
 
 
 <!--
